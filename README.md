@@ -40,6 +40,8 @@ This laboratory is for cybersecurity education and authorized testing only.
 I should only use the tools and techniques on systems that I own or have permission to test.
 
 🔗 Tools and Resources
--7-Zip
--VirtualBox
-Kali Linux
+<ul>
+  <li>7-Zip</li>
+  <li>VirtualBox</li>
+  <li>Kali Linux</li>
+</ul>
